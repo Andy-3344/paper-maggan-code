@@ -1,0 +1,247 @@
+0,AIDS
+1,cancer
+2,cardiac hypertrophy
+3,gastric cancer
+4,dermatomyositis
+5,Leishmaniasis
+6,polymyositis
+7,enterovirus 71 infection
+8,lung adenocarcinoma
+9,glioma
+10,papillary thyroid carcinoma
+11,atherosclerosis
+12,periodontitis
+13,prostate cancer
+14,spinocerebellar ataxia
+15,breast cancer
+16,aging
+17,Alzheimer's disease
+18,cervical cancer
+19,lung cancer
+20,esophageal cancer
+21,ovarian cancer
+22,parotid cancer
+23,tongue cancer
+24,depression
+25,Huntington's disease
+26,psychiatric disease
+27,schizophrenia
+28,testicular cancer
+29,blepharophimosis syndrome
+30,endometrial cancer
+31,esophageal squamous cell carcinoma
+32,colorectal cancer
+33,abdominal aortic aneurysm
+34,acute lymphoblastic leukemia
+35,aortic aneurysm
+36,basal cell carcinoma
+37,cardiovascular disease
+38,coronary artery disease
+39,coronary heart disease
+40,diabetes mellitus
+41,endometriosis
+42,intracranial aneurysm
+43,frailty
+44,glaucoma
+45,hereditary cutaneous malignant melanoma
+46,ischemic stroke
+47,leukemia
+48,melanoma
+49,myocardial infarction
+50,nasopharyngeal carcinoma
+51,neural system tumors syndrome
+52,neurofibromatosis
+53,peripheral artery disease
+54,plexiform neurofibroma
+55,stroke
+56,type 2 diabetes mellitus
+57,cat eye syndrome
+58,adolescent idiopathic scoliosis
+59,bone diseases
+60,bipolar disorder
+61,panic disorder
+62,DiGeorge syndrome
+63,velocardiofacial syndrome
+64,affective disorder
+65,autism spectrum disorder
+66,major depressive affective disorder
+67,split hand/split foot malformation disorder
+68,hereditary haemorrhagic telangiectasia
+69,embryonal carcinoma
+70,autoimmune disease
+71,B-cell neoplasms
+72,kidney cancer
+73,lymphoma
+74,pseudohypoparathyroidism type Ib
+75,adrenocortical carcinoma
+76,Beckwith-Wiedemann syndrome
+77,hydatidiform mole
+78,bladder cancer
+79,choriocarcinoma
+80,chronic myeloproliferative disorders
+81,colon cancer
+82,congenital hyperinsulinism
+83,germ cell tumor
+84,gestational choriocarcinoma
+85,gestational trophoblastic diseases
+86,glioblastoma
+87,growth restriction
+88,malignant hematopoiesis
+89,hepatocellular carcinoma
+90,hyperhomocysteinemia
+91,infertility
+92,liver cancer
+93,Marek's disease
+94,medulloblastoma
+95,meningioma
+96,Mullerian aplasia
+97,myeloproliferative polycythaemia vera
+98,neural tube defects
+99,neuroblastoma
+100,obesity
+101,pheochromocytoma
+102,pituitary adenoma
+103,Prader-Willi syndrome
+104,pre-eclampsia
+105,Silver-Russell syndrome
+106,trophoblastic tumor
+107,Wilms' tumor
+108,liver injury
+109,multiple sclerosis
+110,psoriasis
+111,adenocarcinoma
+112,esophageal adenocarcinoma
+113,gastrointestinal cancer
+114,laryngeal squamous cell carcinoma
+115,non-small cell lung cancer
+116,oral squamous cell carcinoma
+117,pancreatic cancer
+118,rheumatoid arthritis
+119,small cell lung cancer
+120,hepatic colorectal metastasis
+121,type 1 diabetes mellitus
+122,intellectual and developmental disability
+123,osteosarcoma
+124,decreased myogenesis
+125,gallbladder cancer
+126,TDP-43-associated pathological states
+127,uterus cancer
+128,acute myeloid leukemia
+129,chronic myeloid leukemia
+130,drug abuse
+131,myelodysplastic syndrome
+132,syndromic developmental defect
+133,amyotrophic lateral sclerosis
+134,frontotemporal lobar degeneration
+135,intrauterine growth restriction
+136,Down's syndrome
+137,Parkinson's disease
+138,Burkitt lymphoma
+139,cleft lip
+140,diabetic nephropathy
+141,Hodgkin's lymphoma
+142,plasmacytoma
+143,rhabdomyosarcoma
+144,neurodevelopmental syndrome
+145,dyskeratosis congenita
+146,squamous cell carcinoma
+147,Angelman syndrome
+148,pancreaticobiliary maljunction
+149,tongue squamous cell carcinoma
+150,Klinefelter's syndrome
+151,ductal carcinoma
+152,postmenopausal osteoporosis
+153,renal cell carcinoma
+154,multiple myeloma
+155,membranous nephropathy
+156,renal carcinoma
+157,urinary bladder
+158,acute myocardial infarction
+159,H.pylori-related diseases
+160,lung squamous cell carcinoma
+161,diabetic cardiomyopathy
+162,calcific aortic valve disease
+163,renal clear cell carcinoma
+164,chronic lymphocytic leukemia
+165,vulvar squamous cell carcinoma
+166,renal syndrome
+167,thrombocytopenic purpura
+168,cholestatic liver injury
+169,chronic kidney disease
+170,ulcerative colitis
+171,pancreatic ductal adenocarcinoma
+172,acute leukemia
+173,malignant digestive cancer
+174,uveal melanoma
+175,hemangioma
+176,thyroid cancer
+177,pneumonia
+178,gastrointestinal stromal tumor
+179,pneumoconiosis
+180,retinal neurodegeneration
+181,large B-Cell lymphoma
+182,B-cell acute lymphoblastic leukemia
+183,diabetic kidney disease
+184,asthma
+185,systemic lupus erythematosus
+186,epithelial ovarian cancer
+187,hypertension
+188,pulmonary arterial hypertension
+189,hepatoblastoma
+190,oesophageal squamous cell carcinoma
+191,ischemic heart failure
+192,primary Sj閺嬫ren's syndrome
+193,testicular germ cell tumor
+194,acute promyelocytic leukemia
+195,diffuse large B-cell lymphoma
+196,temporomandibular joint osteoarthritis
+197,proliferative vitreoretinopathy
+198,diabetic retinopathy
+199,retinoblastoma
+200,unveal melanoma
+201,congenital heart defect
+202,dilated cardiomyopathy
+203,hepatic steatosis
+204,gastric adenocarcinoma
+205,metabolic syndrome
+206,idiopathic pulmonary fibrosis
+207,asthenozoospermia
+208,bladder transitional cell carcinoma
+209,liver fibrosis
+210,polycystic ovary syndrome
+211,Hashimoto's thyroiditis
+212,head and neck squamous cell carcinoma
+213,systemic sclerosis
+214,intervertebral disc degeneration
+215,temple syndrome
+216,head and neck cancer
+217,aplastic anemia
+218,hematological malignancies
+219,osteoarthritis
+220,exfoliation syndrome
+221,congenital microtia
+222,astrocytoma
+223,HIV
+224,thoracoabdominal aorta aneurysm
+225,uterine cervix carcinoma
+226,Hirschsprung's disease
+227,urothelial cancer
+228,liver cirrhosis
+229,hyperglycaemia
+230,pancreatic neuroendocrine tumor
+231,atrial fibrillation
+232,gastric cardia adenocarcinoma
+233,lung cancer brain metastasis
+234,atypical teratoid rhabdoid tumor
+235,endometrioid endometrial carcinoma
+236,pleural mesothelioma
+237,promyelocytic leukemia
+238,primary myelofibrosis
+239,mantle cell lymphoma
+240,ventricular septal defects
+241,post-traumatic stress disorder
+242,oesophageal adenocarcinoma
+243,B-cell lymphoma
+244,primary open-angle glaucoma
+245,MOMO syndrome
+246,bladder urothelial carcinoma

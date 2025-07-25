@@ -1,0 +1,931 @@
+RN7SK,AIDS
+RN7SK,cancer
+RN7SK,cardiac hypertrophy
+RN7SK,gastric cancer
+RN7SL1,AIDS
+RN7SL1,dermatomyositis
+RN7SL1,Leishmaniasis
+RN7SL1,polymyositis
+AC002511.1,enterovirus 71 infection
+ACTA2-AS1,lung adenocarcinoma
+ADAMTS9-AS2,glioma
+AK023948,papillary thyroid carcinoma
+CDKN2B-AS1,atherosclerosis
+CDKN2B-AS1,cancer
+CDKN2B-AS1,periodontitis
+CDKN2B-AS1,prostate cancer
+AP000688.29,enterovirus 71 infection
+ATXN8OS,spinocerebellar ataxia
+BCAR4,breast cancer
+BCYRN1,aging
+BCYRN1,Alzheimer's disease
+BCYRN1,breast cancer
+BCYRN1,cervical cancer
+BCYRN1,lung cancer
+BCYRN1,esophageal cancer
+BCYRN1,ovarian cancer
+BCYRN1,parotid cancer
+BCYRN1,tongue cancer
+BDNF-AS,depression
+BDNF-AS,Huntington's disease
+BDNF-AS,psychiatric disease
+BDNF-AS,schizophrenia
+BOK-AS1,cancer
+BOK-AS1,testicular cancer
+BPESC1,blepharophimosis syndrome
+CASC2,endometrial cancer
+CBR3-AS1,esophageal squamous cell carcinoma
+CBR3-AS1,prostate cancer
+CCAT1,colorectal cancer
+CCAT1,gastric cancer
+CCDC26,glioma
+CDKN2B-AS1,abdominal aortic aneurysm
+CDKN2B-AS1,acute lymphoblastic leukemia
+CDKN2B-AS1,Alzheimer's disease
+CDKN2B-AS1,aortic aneurysm
+CDKN2B-AS1,basal cell carcinoma
+CDKN2B-AS1,breast cancer
+CDKN2B-AS1,cardiovascular disease
+CDKN2B-AS1,coronary artery disease
+CDKN2B-AS1,coronary heart disease
+CDKN2B-AS1,diabetes mellitus
+CDKN2B-AS1,endometriosis
+CDKN2B-AS1,esophageal squamous cell carcinoma
+CDKN2B-AS1,intracranial aneurysm
+CDKN2B-AS1,frailty
+CDKN2B-AS1,gastric cancer
+CDKN2B-AS1,glaucoma
+CDKN2B-AS1,glioma
+CDKN2B-AS1,hereditary cutaneous malignant melanoma
+CDKN2B-AS1,ischemic stroke
+CDKN2B-AS1,leukemia
+CDKN2B-AS1,melanoma
+CDKN2B-AS1,myocardial infarction
+CDKN2B-AS1,nasopharyngeal carcinoma
+CDKN2B-AS1,neural system tumors syndrome
+CDKN2B-AS1,neurofibromatosis
+CDKN2B-AS1,peripheral artery disease
+CDKN2B-AS1,plexiform neurofibroma
+CDKN2B-AS1,stroke
+CDKN2B-AS1,type 2 diabetes mellitus
+CECR3,cat eye syndrome
+CHL1-AS2,adolescent idiopathic scoliosis
+CRNDE,colorectal cancer
+DANCR,bone diseases
+DAOA-AS1,bipolar disorder
+DAOA-AS1,panic disorder
+DAOA-AS1,schizophrenia
+DGCR5,DiGeorge syndrome
+DGCR5,Huntington's disease
+DGCR5,velocardiofacial syndrome
+DISC2,affective disorder
+DISC2,autism spectrum disorder
+DISC2,bipolar disorder
+DISC2,depression
+DISC2,major depressive affective disorder
+DISC2,schizophrenia
+DLX6-AS1,split hand/split foot malformation disorder
+DNM3OS,ovarian cancer
+DSCAM-AS1,adolescent idiopathic scoliosis
+DSCAM-AS1,breast cancer
+TTTY7,hereditary haemorrhagic telangiectasia
+ENSG00000196096,hereditary haemorrhagic telangiectasia
+LINC00336,hereditary haemorrhagic telangiectasia
+LINC00323,hereditary haemorrhagic telangiectasia
+HAR1B,hereditary haemorrhagic telangiectasia
+ENSG00000231185,hereditary haemorrhagic telangiectasia
+LEF1-AS1,hereditary haemorrhagic telangiectasia
+SNHG15,hereditary haemorrhagic telangiectasia
+ENSG00000233251,hereditary haemorrhagic telangiectasia
+SMIM2-IT1,hereditary haemorrhagic telangiectasia
+SNHG6,hereditary haemorrhagic telangiectasia
+ENSG00000249364,hereditary haemorrhagic telangiectasia
+ENSG00000250195,hereditary haemorrhagic telangiectasia
+ENSG00000250608,hereditary haemorrhagic telangiectasia
+ENSG00000255471,hereditary haemorrhagic telangiectasia
+ENSG00000256218,hereditary haemorrhagic telangiectasia
+LINC00929,hereditary haemorrhagic telangiectasia
+LINC00667,hereditary haemorrhagic telangiectasia
+EPB41L4A-AS1,cancer
+CASC9,esophageal squamous cell carcinoma
+ESRG,embryonal carcinoma
+ESRG,intracranial aneurysm
+GAS5,autoimmune disease
+GAS5,B-cell neoplasms
+GAS5,breast cancer
+GAS5,cancer
+GAS5,kidney cancer
+GAS5,lymphoma
+GAS5,melanoma
+GAS5,prostate cancer
+GDNF-AS1,Alzheimer's disease
+GNAS-AS1,pseudohypoparathyroidism type Ib
+H19,adrenocortical carcinoma
+H19,atherosclerosis
+H19,Beckwith-Wiedemann syndrome
+H19,hydatidiform mole
+H19,bladder cancer
+H19,breast cancer
+H19,cancer
+H19,cervical cancer
+H19,choriocarcinoma
+H19,chronic myeloproliferative disorders
+H19,colon cancer
+H19,congenital hyperinsulinism
+H19,esophageal squamous cell carcinoma
+H19,gastric cancer
+H19,germ cell tumor
+H19,gestational choriocarcinoma
+H19,gestational trophoblastic diseases
+H19,glioblastoma
+H19,glioma
+H19,growth restriction
+H19,malignant hematopoiesis
+H19,hepatocellular carcinoma
+H19,hyperhomocysteinemia
+H19,infertility
+H19,kidney cancer
+H19,liver cancer
+H19,lung cancer
+H19,Marek's disease
+H19,medulloblastoma
+H19,melanoma
+H19,meningioma
+H19,Mullerian aplasia
+H19,myeloproliferative polycythaemia vera
+H19,neural tube defects
+H19,neuroblastoma
+H19,obesity
+H19,ovarian cancer
+H19,pheochromocytoma
+H19,pituitary adenoma
+H19,Prader-Willi syndrome
+H19,pre-eclampsia
+H19,prostate cancer
+H19,Silver-Russell syndrome
+H19,trophoblastic tumor
+H19,Wilms' tumor
+HAR1A,Alzheimer's disease
+HAR1A,Huntington's disease
+HAR1A,schizophrenia
+HAR1B,Alzheimer's disease
+HAR1B,Huntington's disease
+HAR1B,schizophrenia
+HCP5,AIDS
+HIF1A-AS1,kidney cancer
+HIF1A-AS2,kidney cancer
+HLA-AS1,AIDS
+HLA-AS1,liver injury
+HLA-AS1,multiple sclerosis
+HLA-AS1,psoriasis
+HNF1A-AS1,adenocarcinoma
+HNF1A-AS1,esophageal adenocarcinoma
+HOTAIR,B-cell neoplasms
+HOTAIR,breast cancer
+HOTAIR,cancer
+HOTAIR,cervical cancer
+HOTAIR,colon cancer
+HOTAIR,colorectal cancer
+HOTAIR,endometrial cancer
+HOTAIR,ovarian cancer
+HOTAIR,esophageal squamous cell carcinoma
+HOTAIR,gastric cancer
+HOTAIR,gastrointestinal cancer
+HOTAIR,hepatocellular carcinoma
+HOTAIR,laryngeal squamous cell carcinoma
+HOTAIR,liver cancer
+HOTAIR,lung adenocarcinoma
+HOTAIR,lung cancer
+HOTAIR,nasopharyngeal carcinoma
+HOTAIR,non-small cell lung cancer
+HOTAIR,oral squamous cell carcinoma
+HOTAIR,pancreatic cancer
+HOTAIR,rheumatoid arthritis
+HOTAIR,small cell lung cancer
+HOTTIP,hepatocellular carcinoma
+HULC,hepatic colorectal metastasis
+HULC,hepatocellular carcinoma
+HULC,liver cancer
+IFNG-AS1,multiple sclerosis
+IGF2-AS,hepatocellular carcinoma
+IGF2-AS,prostate cancer
+IGF2-AS,type 1 diabetes mellitus
+IGF2-AS,Wilms' tumor
+IPW,Prader-Willi syndrome
+KCNQ1DN,aging
+KCNQ1DN,Wilms' tumor
+KCNQ1OT1,Beckwith-Wiedemann syndrome
+KCNQ1OT1,colorectal cancer
+KCNQ1OT1,hepatocellular carcinoma
+KCNQ1OT1,kidney cancer
+LINC00032,melanoma
+LINC00271,schizophrenia
+LINC00271,type 2 diabetes mellitus
+LINC00299,intellectual and developmental disability
+LINC00963,prostate cancer
+lincRNA-p21,lung cancer
+lincRNA-p21,cancer
+TUSC7,osteosarcoma
+MALAT1,B-cell neoplasms
+MALAT1,bladder cancer
+MALAT1,breast cancer
+MALAT1,cancer
+MALAT1,cervical cancer
+MALAT1,colon cancer
+MALAT1,colorectal cancer
+MALAT1,decreased myogenesis
+MALAT1,diabetes mellitus
+MALAT1,endometrial cancer
+MALAT1,gallbladder cancer
+MALAT1,hepatocellular carcinoma
+MALAT1,kidney cancer
+MALAT1,laryngeal squamous cell carcinoma
+MALAT1,liver cancer
+MALAT1,lung adenocarcinoma
+MALAT1,lung cancer
+MALAT1,nasopharyngeal carcinoma
+MALAT1,neuroblastoma
+MALAT1,non-small cell lung cancer
+MALAT1,osteosarcoma
+MALAT1,pancreatic cancer
+MALAT1,prostate cancer
+MALAT1,small cell lung cancer
+MALAT1,TDP-43-associated pathological states
+MALAT1,uterus cancer
+MEG3,acute myeloid leukemia
+MEG3,bladder cancer
+MEG3,breast cancer
+MEG3,cancer
+MEG3,chronic myeloid leukemia
+MEG3,colon cancer
+MEG3,gastric cancer
+MEG3,glioma
+MEG3,hepatocellular carcinoma
+MEG3,drug abuse
+MEG3,Huntington's disease
+MEG3,kidney cancer
+MEG3,lung cancer
+MEG3,meningioma
+MEG3,myelodysplastic syndrome
+MEG3,neuroblastoma
+MEG3,pituitary adenoma
+MEG3,prostate cancer
+MEG3,type 2 diabetes mellitus
+MESTIT1,Silver-Russell syndrome
+MIAT,cancer
+MIAT,drug abuse
+MIAT,myocardial infarction
+MIAT,schizophrenia
+MIR17HG,cancer
+MIR17HG,lymphoma
+MIR17HG,syndromic developmental defect
+MIR7-3HG,hepatocellular carcinoma
+SNHG16,neuroblastoma
+NEAT1,AIDS
+NEAT1,amyotrophic lateral sclerosis
+NEAT1,frontotemporal lobar degeneration
+NEAT1,Huntington's disease
+NEAT1,intrauterine growth restriction
+NEAT1,TDP-43-associated pathological states
+NEAT1,oral squamous cell carcinoma
+NPPA-AS1,cardiovascular disease
+NRON,Down's syndrome
+PCA3,prostate cancer
+PCAT1,cancer
+PCAT1,prostate cancer
+PCGEM1,prostate cancer
+PDZRN3-AS1,type 2 diabetes mellitus
+PINK1-AS,diabetes mellitus
+PINK1-AS,Parkinson's disease
+PSORS1C3,psoriasis
+PTCSC3,papillary thyroid carcinoma
+PTENP1,cancer
+PTENP1,prostate cancer
+PVT1,breast cancer
+PVT1,Burkitt lymphoma
+PVT1,cancer
+PVT1,cleft lip
+PVT1,diabetic nephropathy
+PVT1,Hodgkin's lymphoma
+PVT1,lymphoma
+PVT1,plasmacytoma
+PVT1,ovarian cancer
+PVT1,pancreatic cancer
+PVT1,prostate cancer
+PVT1,kidney cancer
+PVT1,type 2 diabetes mellitus
+RMST,rhabdomyosarcoma
+RP5-843L14.1,enterovirus 71 infection
+SNHG11,obesity
+SNHG16,bladder cancer
+SNHG16,colorectal cancer
+SNHG3,Alzheimer's disease
+SNHG4,myelodysplastic syndrome
+SNHG5,lymphoma
+SOX2-OT,esophageal squamous cell carcinoma
+SOX2-OT,Alzheimer's disease
+SOX2-OT,neurodevelopmental syndrome
+TCL6,leukemia
+TCL6,lymphoma
+TDRG1,testicular cancer
+TERC,dyskeratosis congenita
+TERC,prostate cancer
+TINCR,squamous cell carcinoma
+TRAF3IP2-AS1,schizophrenia
+TUG1,B-cell neoplasms
+TUG1,bladder cancer
+TUG1,Huntington's disease
+TUG1,non-small cell lung cancer
+SNHG14,Angelman syndrome
+SNHG14,Prader-Willi syndrome
+UCA1,bladder cancer
+UCA1,oral squamous cell carcinoma
+UCA1,pancreaticobiliary maljunction
+UCA1,squamous cell carcinoma
+UCA1,tongue squamous cell carcinoma
+UCA1,cancer
+WT1-AS,acute myeloid leukemia
+WT1-AS,Wilms' tumor
+XIST,bladder cancer
+XIST,breast cancer
+XIST,cancer
+XIST,Klinefelter's syndrome
+XIST,testicular cancer
+ZFAT-AS1,autoimmune disease
+ZFAS1,breast cancer
+ZFAS1,ductal carcinoma
+PVT1,gastric cancer
+UCA1,gastric cancer
+MALAT1,glioblastoma
+H19,coronary artery disease
+TUSC7,gastric cancer
+HIF1A-AS1,cardiovascular disease
+UCA1,hepatocellular carcinoma
+TINCR,gastric cancer
+NRON,AIDS
+DANCR,postmenopausal osteoporosis
+MALAT1,renal cell carcinoma
+MALAT1,multiple myeloma
+NEAT1,infertility
+RP5-833A20.1,atherosclerosis
+LINC-ROR,breast cancer
+LOC285194,esophageal squamous cell carcinoma
+XIST,membranous nephropathy
+HOTAIR,renal carcinoma
+UCA1,urinary bladder
+PVT1,hepatocellular carcinoma
+HIF1A-AS1,acute myocardial infarction
+CDKN2B-AS1,acute myocardial infarction
+KCNQ1OT1,acute myocardial infarction
+MALAT1,acute myocardial infarction
+MIAT,acute myocardial infarction
+XLOC_004562,H.pylori-related diseases
+XLOC_005912,H.pylori-related diseases
+LINC00511,lung adenocarcinoma
+PVT1,lung squamous cell carcinoma
+H19,diabetic cardiomyopathy
+HOXA11-AS,cervical cancer
+NBR2,cancer
+TUG1,breast cancer
+HOTAIRM1,leukemia
+H19,calcific aortic valve disease
+H19,colorectal cancer
+MEG3,cervical cancer
+RAMP2-AS1,glioblastoma
+HULC,gastric cancer
+HULC,pancreatic cancer
+HULC,osteosarcoma
+HULC,colorectal cancer
+UCA1,breast cancer
+LINC-ROR,gallbladder cancer
+HOTAIRM1,colorectal cancer
+NEAT1,nasopharyngeal carcinoma
+GAS5,ovarian cancer
+RP5-833A20.1,glioma
+MEG3,esophageal squamous cell carcinoma
+MALAT1,gastric cancer
+MALAT1,renal clear cell carcinoma
+MALAT1,esophageal cancer
+CRNDE,chronic lymphocytic leukemia
+AC012065.7,chronic lymphocytic leukemia
+JPX,hepatocellular carcinoma
+XIST,hepatocellular carcinoma
+ZEB2-AS1,hepatocellular carcinoma
+UCA1,esophageal cancer
+SNHG7,lung cancer
+MEG3,vulvar squamous cell carcinoma
+MALAT1,vulvar squamous cell carcinoma
+PVT1,cervical cancer
+HULC,cervical cancer
+CRNDE,glioma
+NEAT1,renal syndrome
+MEG3,stroke
+LINC00161,osteosarcoma
+UCA1,pancreatic cancer
+HCG11,prostate cancer
+MEG3,thrombocytopenic purpura
+CCDC26,pancreatic cancer
+MALAT1,Parkinson's disease
+MEG3,cholestatic liver injury
+RMRP,gastric cancer
+DANCR,prostate cancer
+TUSC7,glioma
+CCAT1,glioma
+UCA1,ovarian cancer
+MEG3,nasopharyngeal carcinoma
+TPT1-AS1,glioma
+TUG1,chronic kidney disease
+RP11-523H24.3,esophageal cancer
+H19,ulcerative colitis
+H19,pancreatic ductal adenocarcinoma
+HOTTIP,pancreatic cancer
+HOTTIP,gastric cancer
+HOTTIP,colorectal cancer
+HOTAIR,acute leukemia
+H19,malignant digestive cancer
+HOTTIP,glioma
+LINC00601,hepatocellular carcinoma
+CTD-2616J11.14,gastric cancer
+RP1-90G24.10,gastric cancer
+RP11-150O12.3,gastric cancer
+RP11-1149O23.2,gastric cancer
+MALAT1,uveal melanoma
+DANCR,breast cancer
+H19,gallbladder cancer
+CRNDE,renal cell carcinoma
+NEXN-AS1,lung cancer
+MALAT1,hemangioma
+PVT1,esophageal cancer
+LINC-ROR,colorectal cancer
+MALAT1,thyroid cancer
+TUG1,ovarian cancer
+GATA6-AS1,chronic lymphocytic leukemia
+GATA6-AS1,gastric cancer
+CDKN2B-AS1,osteosarcoma
+LOC285194,colorectal cancer
+LINC00472,ovarian cancer
+NEAT1,endometrial cancer
+RP11-248E9.5,pneumonia
+RP11-456D7.1,pneumonia
+HOTAIR,osteosarcoma
+HOTAIR,gastrointestinal stromal tumor
+TUG1,osteosarcoma
+ZFAS1,gastric cancer
+HOXA11-AS,gastric cancer
+NONHSAT089447,schizophrenia
+NONHSAT041499,schizophrenia
+CASC2,gastric cancer
+HNF1A-AS1,osteosarcoma
+CRNDE,gallbladder cancer
+TUG1,colon cancer
+GAS5,non-small cell lung cancer
+UCA1,pancreatic ductal adenocarcinoma
+LINC00339,pancreatic ductal adenocarcinoma
+H19,pneumoconiosis
+LINC00520,breast cancer
+XIST,gastric cancer
+HOTAIR,ischemic stroke
+NEAT1,ovarian cancer
+LINC-ROR,gastric cancer
+AC145110.1,breast cancer
+RP1-13P20.6,colorectal cancer
+LEF1-AS1,colorectal cancer
+LINC00460,colorectal cancer
+MALAT1,retinal neurodegeneration
+TINCR,bladder cancer
+MALAT1,tongue squamous cell carcinoma
+TDRG1,esophageal squamous cell carcinoma
+FENDRR,non-small cell lung cancer
+HOXC-AS1,atherosclerosis
+ZFAS1,hepatocellular carcinoma
+CCAT1,lung adenocarcinoma
+MALAT1,ovarian cancer
+MALAT1,melanoma
+NEAT1,glioma
+NEAT1,breast cancer
+HOTAIR,large B-Cell lymphoma
+HOTAIR,papillary thyroid carcinoma
+UCA1,endometrial cancer
+XIST,B-cell acute lymphoblastic leukemia
+MIR22HG,ovarian cancer
+SNHG6,hepatocellular carcinoma
+MIAT,chronic lymphocytic leukemia
+SNHG1,neuroblastoma
+CDKN2B-AS1,thyroid cancer
+PVT1,diabetic kidney disease
+XIST,non-small cell lung cancer
+n375709,nasopharyngeal carcinoma
+TCL6,renal cell carcinoma
+RBMY2FP,hepatocellular carcinoma
+RSU1P2,cervical cancer
+PVT1,asthma
+NEAT1,systemic lupus erythematosus
+MEG3,endometrial cancer
+GAS5,gastric cancer
+XIST,nasopharyngeal carcinoma
+ZFAS1,colorectal cancer
+SBF2-AS1,non-small cell lung cancer
+RPLP0P2,lung adenocarcinoma
+BCAR4,osteosarcoma
+PCAT6,lung cancer
+MALAT1,epithelial ovarian cancer
+NEAT1,leukemia
+HOTAIR,glioma
+LINC00261,gastric cancer
+GAS5,hypertension
+CCAT1,endometrial cancer
+CASC9,esophageal cancer
+TUG1,colorectal cancer
+GAS5,colorectal cancer
+MIAT,Alzheimer's disease
+UCA1,melanoma
+NEAT1,bladder cancer
+CRNDE,medulloblastoma
+FER1L4,endometrial cancer
+RMST,breast cancer
+PVT1,renal carcinoma
+TUG1,glioma
+RP11-359E19.2,bladder cancer
+MALAT1,pulmonary arterial hypertension
+TUG1,hepatoblastoma
+SOX2-OT,colorectal cancer
+LINC00052,hepatocellular carcinoma
+NEAT1,non-small cell lung cancer
+HOTTIP,osteosarcoma
+HOTTIP,non-small cell lung cancer
+TUG1,glioblastoma
+SOCS2-AS1,prostate cancer
+TUG1,oesophageal squamous cell carcinoma
+TUG1,hepatocellular carcinoma
+MALAT1,amyotrophic lateral sclerosis
+UCHL1-AS1,Parkinson's disease
+STXBP5-AS1,breast cancer
+MEG3,lung adenocarcinoma
+MIAT,lung adenocarcinoma
+LINC00115,lung adenocarcinoma
+MAPT-AS1,Parkinson's disease
+UCA1,osteosarcoma
+TUG1,esophageal squamous cell carcinoma
+TUG1,renal cell carcinoma
+CDKN2B-AS1,ischemic heart failure
+HOTAIR,ischemic heart failure
+TUSC7,ischemic heart failure
+CDKN2B-AS1,colorectal cancer
+LINC-ROR,nasopharyngeal carcinoma
+CDKN2B-AS1,non-small cell lung cancer
+LINC00342,non-small cell lung cancer
+RP11-838N2.4,glioblastoma
+UCA1,esophageal squamous cell carcinoma
+HIF1A-AS2,glioblastoma
+TUG1,gastric cancer
+MDC1-AS1,glioma
+CASC8,lung cancer
+FER1L4,gastric cancer
+CASC2,renal cell carcinoma
+ZNF582-AS1,colorectal cancer
+CCAT1,lung cancer
+SNHG15,hepatocellular carcinoma
+LUCAT1,non-small cell lung cancer
+CASC2,colorectal cancer
+BCAR4,colorectal cancer
+SOX2-OT,retinal neurodegeneration
+LINC00426,primary Sj鏋歡ren's syndrome
+ENST00000455309,primary Sj鏋歡ren's syndrome
+n340599,primary Sj鏋歡ren's syndrome
+H19,osteosarcoma
+UCA1,liver cancer
+ZNRD1-AS1,lung cancer
+MEG3,testicular germ cell tumor
+TUSC7,non-small cell lung cancer
+HOTAIRM1,acute promyelocytic leukemia
+BCYRN1,esophageal squamous cell carcinoma
+LINC00473,non-small cell lung cancer
+MALAT1,glioma
+CCAT1,hepatocellular carcinoma
+SNHG1,hepatocellular carcinoma
+HOTAIR,diffuse large B-cell lymphoma
+MIAT,prostate cancer
+CDKN2B-AS1,ovarian cancer
+NEAT1,gastric cancer
+H19,thyroid cancer
+HNF1A-AS1,hepatocellular carcinoma
+RP4-799P18.3,ovarian cancer
+RP11-57P19.1,ovarian cancer
+RP11-254I22.1,ovarian cancer
+LINC-ROR,colon cancer
+FTX,hepatocellular carcinoma
+SNHG5,gastric cancer
+HOTTIP,prostate cancer
+HOTAIR,temporomandibular joint osteoarthritis
+HOTTIP,pancreatic ductal adenocarcinoma
+MALAT1,pancreatic ductal adenocarcinoma
+UCA1,colorectal cancer
+HULC,diffuse large B-cell lymphoma
+MALAT1,proliferative vitreoretinopathy
+MIAT,diabetic retinopathy
+MEG3,retinoblastoma
+LINC-ROR,unveal melanoma
+H19,nasopharyngeal carcinoma
+LINC00668,gastric cancer
+ENST00000436681,congenital heart defect
+H19,congenital heart defect
+PCAT1,hepatocellular carcinoma
+AC024560.2,cervical cancer
+NONHSAT104436,esophageal squamous cell carcinoma
+NEAT1,multiple sclerosis
+TUG1,multiple sclerosis
+RN7SK,multiple sclerosis
+POU6F2-AS2,oesophageal squamous cell carcinoma
+MIR503HG,choriocarcinoma
+LINC00629,choriocarcinoma
+H19,Parkinson's disease
+SNHG1,Parkinson's disease
+NEAT1,Parkinson's disease
+HIF1A-AS2,bladder cancer
+MALAT1,esophageal squamous cell carcinoma
+TINCR,colorectal cancer
+TUSC7,hepatocellular carcinoma
+DANCR,osteosarcoma
+HULC,atherosclerosis
+HOTAIR,Parkinson's disease
+TUG1,prostate cancer
+CTB-89H12.4,prostate cancer
+HOTAIR,prostate cancer
+TCONS_00003876,breast cancer
+MIAT,dilated cardiomyopathy
+RGMB-AS1,lung adenocarcinoma
+UCA1,acute myocardial infarction
+CDKN2B-AS1,hypertension
+HOTAIR,glioblastoma
+UCA1,renal cell carcinoma
+MALAT1,hepatic steatosis
+MEG3,colorectal cancer
+LINC00636,breast cancer
+ADARB2-AS1,breast cancer
+ST8SIA6-AS1,breast cancer
+LINC00511,breast cancer
+TERC,lung squamous cell carcinoma
+CCAT1,acute myeloid leukemia
+HIF1A-AS2,breast cancer
+NEAT1,gastric adenocarcinoma
+RP11-434D9.1,breast cancer
+LINC00052,breast cancer
+PVT1,non-small cell lung cancer
+CBR3-AS1,hepatocellular carcinoma
+LINC-ROR,pancreatic cancer
+MEG3,metabolic syndrome
+HULC,glioma
+MEG3,tongue squamous cell carcinoma
+UCA1,colon cancer
+PVT1,renal cell carcinoma
+PTENP1,renal cell carcinoma
+LINC00963,renal cell carcinoma
+H19,laryngeal squamous cell carcinoma
+SLC26A4-AS1,cardiac hypertrophy
+RP11-344E13.3,cardiac hypertrophy
+RP11-181G12.2,lung adenocarcinoma
+KRT18P55,gastric cancer
+MEG3,pancreatic cancer
+FEZF1-AS1,colorectal cancer
+SOX2-OT,lung cancer
+MEG3,diabetes mellitus
+TINCR,esophageal squamous cell carcinoma
+HOXA11-AS,glioma
+2700086A05Rik,idiopathic pulmonary fibrosis
+MEG3,osteosarcoma
+HOTAIR,asthenozoospermia
+PCAT2,prostate cancer
+NEAT1,laryngeal squamous cell carcinoma
+MEG3,gallbladder cancer
+CDKN2B-AS1,gallbladder cancer
+RP11-395G23.3,endometrial cancer
+HOTAIR,bladder cancer
+TP73-AS1,esophageal squamous cell carcinoma
+LINC00635,lung cancer
+CASC2,lung cancer
+HOTAIR,bladder transitional cell carcinoma
+PCAT1,lung cancer
+HNF1A-AS1,nasopharyngeal carcinoma
+HOTTIP,lung cancer
+CDKN2B-AS1,lung cancer
+MALAT1,pre-eclampsia
+H19,non-small cell lung cancer
+GAS5,hepatocellular carcinoma
+MALAT1,liver fibrosis
+HOTAIRM1,pancreatic ductal adenocarcinoma
+GAS5,type 2 diabetes mellitus
+SNHG15,gastric cancer
+UCA1,non-small cell lung cancer
+ENST00000454271,polycystic ovary syndrome
+ENST00000433673,polycystic ovary syndrome
+ENST00000432431,polycystic ovary syndrome
+FENDRR,lung cancer
+IFNG-AS1,Hashimoto's thyroiditis
+GAS5,lung cancer
+FTX,colorectal cancer
+HOTAIR,acute myeloid leukemia
+AC002454.1,endometriosis
+DANCR,colorectal cancer
+NONHSAT037832,papillary thyroid carcinoma
+NEAT1,esophageal squamous cell carcinoma
+HOTAIR,head and neck squamous cell carcinoma
+TSIX,systemic sclerosis
+LINC00472,breast cancer
+CRNDE,ovarian cancer
+LINC00917,intervertebral disc degeneration
+CTC-523E23.5,intervertebral disc degeneration
+RP4-639J15.1,intervertebral disc degeneration
+RP11-363G2.4,intervertebral disc degeneration
+RP11-38F22.1,intervertebral disc degeneration
+NEAT1,colorectal cancer
+UCA1,prostate cancer
+GAS5,bladder cancer
+PVT1,acute promyelocytic leukemia
+MEG8,temple syndrome
+MALAT1,oral squamous cell carcinoma
+PVT1,bladder cancer
+GAS5,endometrial cancer
+CECR7,hepatocellular carcinoma
+MAPKAPK5-AS1,hepatocellular carcinoma
+SNHG12,osteosarcoma
+GAS5,head and neck cancer
+HOTAIR,pancreatic ductal adenocarcinoma
+MEG3,non-small cell lung cancer
+MALAT1,diabetic cardiomyopathy
+HNF1A-AS1,gastric cancer
+CCAT1,breast cancer
+FENDRR,osteosarcoma
+WT1-AS,hepatocellular carcinoma
+TDRG1,aplastic anemia
+PVT1,hematological malignancies
+CCDC26,hematological malignancies
+WT1-AS,gastric cancer
+CDKN2B-AS1,bladder cancer
+ENST00000438550,nasopharyngeal carcinoma
+RP11-567G11.1,pancreatic cancer
+GAS5,liver fibrosis
+SNHG5,melanoma
+HOTAIRM1,acute myeloid leukemia
+HOXA11-AS,ovarian cancer
+PVT1,thyroid cancer
+LINC00160,breast cancer
+H19,embryonal carcinoma
+TP73-AS1,multiple myeloma
+SOX2-OT,breast cancer
+PTPRG-AS1,breast cancer
+CDKN2B-AS1,cervical cancer
+RP11-397D12.4,non-small cell lung cancer
+AC007403.1,non-small cell lung cancer
+DBH-AS1,hepatocellular carcinoma
+HOXA-AS2,gastric cancer
+UCA1,lung cancer
+SNHG3,hepatocellular carcinoma
+GAS5,glioma
+TUSC7,acute myeloid leukemia
+PCGEM1,osteoarthritis
+HIF1A-AS1,non-small cell lung cancer
+GAS5,lung adenocarcinoma
+LINC00982,gastric cancer
+ZNRD1-AS1,cervical cancer
+HOTAIR,gastric adenocarcinoma
+RP11-457M11.2,lung adenocarcinoma
+KCNQ1OT1,breast cancer
+LINC00675,pancreatic ductal adenocarcinoma
+LOXL1-AS1,exfoliation syndrome
+MALAT1,congenital microtia
+SNHG1,astrocytoma
+FER1L4,colon cancer
+MEG3,renal cell carcinoma
+NEAT1,hepatocellular carcinoma
+LINC00313,lung cancer
+H19,esophageal cancer
+AOC4P,hepatocellular carcinoma
+EGOT,breast cancer
+ZEB2-AS1,bladder cancer
+NEAT1,HIV
+MALAT1,HIV
+SOX2-OT,lung squamous cell carcinoma
+HOTAIRM1,glioma
+AC016745.3,glioma
+SOX2-OT,hepatocellular carcinoma
+MEG3,osteoarthritis
+H19,endometriosis
+HIF1A-AS1,thoracoabdominal aorta aneurysm
+HOTTIP,tongue squamous cell carcinoma
+RGMB-AS1,non-small cell lung cancer
+HOXA11-AS,uterine cervix carcinoma
+UCA1,acute myeloid leukemia
+DLX6-AS1,lung adenocarcinoma
+CDKN2B-AS1,hepatocellular carcinoma
+PVT1,cardiac hypertrophy
+XLOC_010235,gastric cancer
+RP11-789C1.1,gastric cancer
+HOTTIP,Hirschsprung's disease
+MEG3,thyroid cancer
+HOTAIR,urothelial cancer
+NEAT1,chronic lymphocytic leukemia
+DANCR,hepatocellular carcinoma
+HULC,liver cirrhosis
+PCAT1,bladder cancer
+RP11-445H22.4,breast cancer
+CCDC26,acute myeloid leukemia
+LINC00261,pancreatic cancer
+HNF1A-AS1,pancreatic cancer
+HULC,esophageal cancer
+BCYRN1,non-small cell lung cancer
+H19,renal cell carcinoma
+HNF1A-AS1,lung adenocarcinoma
+SNHG1,non-small cell lung cancer
+HOTAIR,pre-eclampsia
+MALAT1,hyperglycaemia
+XIST,ovarian cancer
+MEG3,multiple myeloma
+BOK-AS1,esophageal squamous cell carcinoma
+PCAT1,esophageal squamous cell carcinoma
+NRON,HIV
+RP11-160H22.5,hepatocellular carcinoma
+SNHG12,endometrial cancer
+PTENP1,gastric cancer
+HIF1A-AS2,gastric cancer
+RP4-583P15.10,breast cancer
+LINC-ROR,glioma
+CDKN2B-AS1,esophageal cancer
+PTENP1,hepatocellular carcinoma
+XIST,glioblastoma
+CCAT1,gallbladder cancer
+MEG3,pancreatic neuroendocrine tumor
+HOXA-AS3,glioma
+BCYRN1,glioma
+TCONS_00032546,atrial fibrillation
+TCONS_00026102,atrial fibrillation
+RP5-1014O16.1,hepatocellular carcinoma
+LOC285194,pancreatic ductal adenocarcinoma
+MDC1-AS1,bladder cancer
+LINC00974,hepatocellular carcinoma
+HOTAIR,gastric cardia adenocarcinoma
+CASC2,glioma
+HOTAIR,osteoarthritis
+GAS5,osteoarthritis
+RP11-445H22.4,osteoarthritis
+H19,osteoarthritis
+CTD-2574D22.4,osteoarthritis
+NEAT1,prostate cancer
+GAS5,cervical cancer
+MALAT1,diabetic retinopathy
+MT1DP,liver cancer
+NEAT1,acute promyelocytic leukemia
+AC026166.2,laryngeal squamous cell carcinoma
+LINC00582,endometrial cancer
+MALAT1,lung cancer brain metastasis
+MEG3,liver fibrosis
+CCAT1,colon cancer
+FENDRR,gastric cancer
+CCAT1,non-small cell lung cancer
+CCDC26,breast cancer
+ZNRD1-AS1,hepatocellular carcinoma
+RP11-325I22.2,lung adenocarcinoma
+HOTAIR,atypical teratoid rhabdoid tumor
+MALAT1,endometrioid endometrial carcinoma
+ZNF674-AS1,hepatocellular carcinoma
+HOXB-AS3,colorectal cancer
+HOTAIR,gallbladder cancer
+HOTAIR,renal cell carcinoma
+PVT1,pleural mesothelioma
+PCGEM1,glioma
+H19,pancreatic cancer
+LINC-ROR,hepatocellular carcinoma
+GAS5,pleural mesothelioma
+TCONS_00018278,hepatocellular carcinoma
+HIF1A-AS1,aortic aneurysm
+MEG3,epithelial ovarian cancer
+HOTAIRM1,promyelocytic leukemia
+WT1-AS,primary myelofibrosis
+MEG3,primary myelofibrosis
+CDKN2B-AS1,primary myelofibrosis
+GAS5,mantle cell lymphoma
+TDRG1,gastric cancer
+LINC-ROR,endometrial cancer
+LINC00467,neuroblastoma
+HOTAIR,pituitary adenoma
+PVT1,colorectal cancer
+RP11-473L15.2,ventricular septal defects
+AC068718.1,post-traumatic stress disorder
+TUG1,melanoma
+GAS5,pancreatic cancer
+HOTAIR,oesophageal squamous cell carcinoma
+HNF1A-AS1,oesophageal adenocarcinoma
+GAS6-AS1,non-small cell lung cancer
+HOTAIR,melanoma
+LUCAT1,lung cancer
+HOXA-AS2,promyelocytic leukemia
+MIR7-3HG,liver cancer
+PCAT1,colorectal cancer
+GAS5,renal cell carcinoma
+PTCSC3,thyroid cancer
+PVT1,B-cell lymphoma
+MALAT1,urothelial cancer
+CDKN2B-AS1,primary open-angle glaucoma
+LINC00237,MOMO syndrome
+TUG1,bladder urothelial carcinoma
+LINC00887,renal clear cell carcinoma
+PVT1,multiple myeloma
